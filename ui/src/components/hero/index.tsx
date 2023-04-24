@@ -68,7 +68,7 @@ export default function MyHero() {
           </div>
         
         </div>
-        <div className="mx-auto mt-16 flex max-w-2xl sm:mt-24 lg:ml-10 lg:mr-0 lg:mt-0 lg:max-w-none lg:flex-none xl:ml-32">
+        <div className="mx-auto mt-16 hidden max-w-2xl sm:mt-24 lg:ml-10 lg:mr-0 lg:mt-0 lg:max-w-none lg:flex-none xl:ml-32 lg:flex">
           <div className="max-w-3xl flex-none sm:max-w-5xl lg:max-w-none">
             <img
               src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*MZGYVKtygrS1oNjK.png"
